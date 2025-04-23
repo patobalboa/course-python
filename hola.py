@@ -10,9 +10,6 @@ print(n1 ** n2) # Potencia no devuelve 16807
 print(n1 // n2) # Divide y devuelve entero 1
 print(n1 % n2) # Modulo nos devulve 2
 
-# Escribe un codigo donde le solicites 2 numeros 
-# Al usuario y resultado te indique si este es
-# Par o Impar.
 resultado = n1 + n2
 
 if resultado % 2 == 0:
